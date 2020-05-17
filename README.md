@@ -34,7 +34,7 @@ export default AnimateFontSize
 
 ```
 
-![Animation in react](demo/HelloWorld.gif.gif)
+![Animation in react](demo/HelloWorld.gif)
 
 ## Usage
 
