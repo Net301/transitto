@@ -1,6 +1,12 @@
 ## Description
 Transitto is a library that allows you to simply add animations and transitions to your react application.
 
+## Why to use transitto ?
+
+1. It is very simple to understand and use.
+2. It can be customized.
+3. It is modern (It uses react hooks!).
+
 ## Install 
 
 ### npm
