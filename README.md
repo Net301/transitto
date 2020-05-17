@@ -34,7 +34,7 @@ export default AnimateFontSize
 
 ```
 
-!()[demo/HelloWorld.gif]
+![Animation in react](demo/HeloWorld.gif)
 
 ## Usage
 
@@ -88,7 +88,7 @@ const HelloString = () => {
 export default HelloString
 ```
 
-!()[demo/HelloString.gif]
+![Animating a string with react](demo/HelloString.gif)
 
 ### Animating a color
 
@@ -115,7 +115,7 @@ const HelloColor = () => {
 export default HelloColor
 ```
 
-!()[demo/HelloColor.gif]
+![Animating colors with react](demo/HelloColor.gif)
 
 ## Advanced usage
 
@@ -146,5 +146,5 @@ const AdvancedAcceleration = () => {
 export default AdvancedAcceleration
 ```
 
-!()[demo/Advanced.gif]
+![Advanced animation in react](demo/Advanced.gif)
 
