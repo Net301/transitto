@@ -1,6 +1,6 @@
 {
   "name": "transitto",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A library for creating animations, transition and effects in react",
   "main":"src/lib/useTransition.js",
   "repository": {
