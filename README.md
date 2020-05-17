@@ -42,7 +42,7 @@ export default AnimateFontSize
 Using this library is very simple.
 
 1. Install (see above).
-2. Import it in the page you want to use it (see above)
+2. Import it (see above)
 3. use the useTransition hook
 
 ### The useTransition hook
