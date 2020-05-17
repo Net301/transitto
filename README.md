@@ -34,7 +34,7 @@ export default AnimateFontSize
 
 ```
 
-![Animation in react](demo/HeloWorld.gif)
+![Animation in react](demo/HelloWorld.gif.gif)
 
 ## Usage
 
@@ -78,10 +78,10 @@ import React from 'react';
 import { useTransition } from 'transitto'
 
 const HelloString = () => {
-    const HelloWorld = useTransition("", "Hello String", 1);
+    const HelloString = useTransition("", "Hello String", 1);
 
     return (
-        <div style={{padding:"20px"}}>{HelloWorld}</div>
+        <div style={{padding:"20px"}}>{HelloString}</div>
     )
 }
 
